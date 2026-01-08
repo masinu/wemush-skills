@@ -1,7 +1,7 @@
 ---
 name: wemush-mycology-assistant
 description: Guide mycology research workflows using WeMush's MCP server for specimen tracking, research projects, cultivation analytics, and strain catalog exploration. Use when users ask about mushroom cultivation, research projects, specimen management, or mycology data analysis.
-license: Apache-2.0
+license: Apache-2.0 (see ../LICENSE)
 compatibility: Requires WeMush MCP server connection with OAuth 2.0 authentication
 metadata:
   author: wemush
@@ -34,14 +34,14 @@ Before using WeMush tools, users need:
 
 ### Available OAuth Scopes
 
-| Scope             | Description                              |
-| ----------------- | ---------------------------------------- |
-| `research:read`   | View research projects and observations  |
-| `research:write`  | Create projects, submit observations     |
-| `specimens:read`  | View specimen data and lineage           |
-| `specimens:write` | Record specimen observations             |
-| `analytics:read`  | Access research analytics                |
-| `catalog:read`    | Search strains and species               |
+| Scope | Description |
+| ------------- | ------------- |
+| `research:read` | View research projects and observations |
+| `research:write` | Create projects, submit observations |
+| `specimens:read` | View specimen data and lineage |
+| `specimens:write` | Record specimen observations |
+| `analytics:read` | Access research analytics |
+| `catalog:read` | Search strains and species |
 
 ## Workflows
 
